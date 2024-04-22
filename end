@@ -1,0 +1,54 @@
+[33mcommit c44a418680b3ffb4327ecc93012edb9347bd60da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Konstantin Antonov <kostaantonov59@mail.ru>
+Date:   Mon Apr 22 16:57:12 2024 +0300
+
+    Homework 10.1
+
+[33mcommit a94791067f95f7850ea11f4ac22603024f1da95e[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 86f56d2 860c0df
+Author: Konstantin Antonov <kostaantonov59@mail.ru>
+Date:   Sun Apr 21 13:51:02 2024 +0300
+
+    Merge branch 'main' of https://github.com/kostyaantonov/homework-10.1
+
+[33mcommit 86f56d20d81fa3c831189bf9341cd673d80fd8a9[m
+Author: Konstantin Antonov <kostaantonov59@mail.ru>
+Date:   Sun Apr 21 13:47:53 2024 +0300
+
+    erge conflict resolved
+
+[33mcommit 860c0df38953ba3244f91f1e2a46c4449d21cc89[m
+Author: Константин <140531746+KostyaAntonov@users.noreply.github.com>
+Date:   Sun Apr 21 13:08:50 2024 +0300
+
+    Initial commit
+
+[33mcommit 9811acaa078bda6841570a5348e06965c706b6c4[m
+Author: Konstantin Antonov <kostaantonov59@mail.ru>
+Date:   Sun Apr 14 20:54:42 2024 +0300
+
+    commit_2
+
+[33mcommit f0de9b4b736d9b69f9a9e732873d20d11d9b456e[m
+Author: Konstantin Antonov <kostaantonov59@mail.ru>
+Date:   Sun Apr 14 20:45:14 2024 +0300
+
+    commit_1
+
+[33mcommit 0ae3a87b2e0681c7bc36df802ce6c341bdd16552[m
+Author: Konstantin Antonov <kostaantonov59@mail.ru>
+Date:   Mon Apr 8 19:13:38 2024 +0300
+
+    add masks.py
+
+[33mcommit 0ba1bd19aa6fa6c0e4a745bc1071df024ba325f8[m
+Author: Konstantin Antonov <kostaantonov59@mail.ru>
+Date:   Mon Apr 8 18:49:18 2024 +0300
+
+    add src/widget.py
+
+[33mcommit cbf8257be38089ce413b0ce411d48b57a4ddea5b[m
+Author: Konstantin Antonov <kostaantonov59@mail.ru>
+Date:   Mon Apr 8 18:00:06 2024 +0300
+
+    add src/widget.py
