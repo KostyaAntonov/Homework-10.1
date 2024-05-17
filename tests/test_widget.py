@@ -1,6 +1,8 @@
 from typing import Any, Callable
 from unittest.mock import MagicMock
+
 import pytest
+
 from src.widget import mask_card_or_account, reformat_date
 
 
